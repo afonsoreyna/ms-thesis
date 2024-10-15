@@ -1,3 +1,5 @@
+# Abstract
+
 The predictability of the cryptocurrency market is a current and highly researched
 topic. However, the cross-market influences on the returns of the cryptocur-
 rencies would benefit from different perspectives. This study examines the
